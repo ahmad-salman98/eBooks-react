@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "react-autocomplete": "^1.8.1",
+    "react-search-autocomplete": "^8.0.0"
+  }
+}
