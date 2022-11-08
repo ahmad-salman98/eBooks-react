@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 
-export default function Header(props) {
+export default function Header() {
 
     return (<nav class="navbar navbar-expand-lg navbar-light bg-light">
         <div class="container-fluid">
